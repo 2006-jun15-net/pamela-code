@@ -47,3 +47,16 @@ Select * FROM Orders;
 INSERT INTO Customers1 (FirstName, LastName) VALUES ('Pamela', 'Soulis');
 INSERT INTO Customers1 (FirstName, LastName) VALUES ('Alejandro', 'Lopez');
 INSERT INTO Customers1 (FirstName, LastName) VALUES ('Jane', 'Doe');
+INSERT INTO Customers1 (FirstName, LastName) VALUES ('Tina', 'Smith');
+
+INSERT INTO Products (Name, Price) VALUES ('iPhone', '200');
+INSERT INTO Products (Name, Price) VALUES ('iPad', '300');
+INSERT INTO Products (Name, Price) VALUES ('MacBook', '900');
+
+INSERT INTO Orders (OrdersID, CustomerID, ProductID) VALUES (1, 4, 1);
+INSERT INTO Orders (OrdersID, CustomerID, ProductID) VALUES (2, 1, 1);
+INSERT INTO Orders (OrdersID, CustomerID, ProductID) VALUES (3, 2, 1);
+
+SELECT * 
+	FROM Orders
+	WHERE CustomerID = 4;
