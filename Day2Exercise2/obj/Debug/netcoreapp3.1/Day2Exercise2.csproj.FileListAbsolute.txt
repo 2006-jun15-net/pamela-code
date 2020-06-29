@@ -1,0 +1,13 @@
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\bin\Debug\netcoreapp3.1\Day2Exercise2.exe
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\bin\Debug\netcoreapp3.1\Day2Exercise2.deps.json
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\bin\Debug\netcoreapp3.1\Day2Exercise2.runtimeconfig.json
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\bin\Debug\netcoreapp3.1\Day2Exercise2.runtimeconfig.dev.json
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\bin\Debug\netcoreapp3.1\Day2Exercise2.dll
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\bin\Debug\netcoreapp3.1\Day2Exercise2.pdb
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.csprojAssemblyReference.cache
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.AssemblyInfoInputs.cache
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.AssemblyInfo.cs
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.dll
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.pdb
+C:\Users\pamel\Desktop\Revature\pamela-code\Day2Exercise2\obj\Debug\netcoreapp3.1\Day2Exercise2.genruntimeconfig.cache
